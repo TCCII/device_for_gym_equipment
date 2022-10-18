@@ -1,1 +1,2 @@
-# device_for_gym_equipment
+# O projeto aqui apresentado é um projeto de TCC II para o curso de Ciência da Computação. 
+Tecnologias de Automação de Voz representam uma solução em potencial para melhoria da vida das pessoas possibilitando uma grande quantidade de aplicações, nas indústrias, comércio, segurança, cidades inteligentes etc. Este estudo avalia a automação  de voz aplicada a equipamentos de ginástica através da discussão de questões teóricas e práticas, e da implementação de uma prova de conceito dessa solução.
