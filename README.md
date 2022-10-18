@@ -1,0 +1,1 @@
+# device_for_gym_equipment
