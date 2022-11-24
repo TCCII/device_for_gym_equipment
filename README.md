@@ -11,6 +11,7 @@
 Katia Goldchleger, Rogério de Oliveira
 
 [![Click para ver o vídeo](https://github.com/Rogerio-mack/work/raw/main/led_pulse.gif)](https://www.youtube.com/watch?v=VfS8R2wF-_w)
+
 [Artigo TCC](https://github.com/TCCII/device_for_gym_equipment/blob/main/Artigo_Final_TCC_II_2022.pdf)
 
 
