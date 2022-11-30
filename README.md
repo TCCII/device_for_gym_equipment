@@ -12,11 +12,12 @@ Katia Goldchleger, Rogério de Oliveira
 
 [![Click para ver o vídeo](https://github.com/Rogerio-mack/work/raw/main/led_pulse.gif)](https://www.youtube.com/watch?v=VfS8R2wF-_w)
 
-[Artigo TCC](https://github.com/TCCII/device_for_gym_equipment/blob/main/Artigo_Final_TCC_II_2022.pdf)
-
 
 ### ABSTRACT
 Voice automation technologies represent a potential solution to improve people's lives, enabling a wide range of applications in industry, commerce, security, home automation and even smart cities. This study consists of the implementation of a voice control solution in low-cost
 processing devices, enabling its application in gym equipment for greater accessibility and use of such equipment.
 
 *Key-words:* Voice control, Speech command recognition
+
+
+[Artigo TCC](https://github.com/TCCII/device_for_gym_equipment/blob/main/Artigo_Final_TCC_II_2022.pdf)
