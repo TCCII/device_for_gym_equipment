@@ -14,8 +14,7 @@ Katia Goldchleger, Rogério de Oliveira
 
 
 ### ABSTRACT
-Voice automation technologies represent a potential solution to improve people's lives, enabling a wide range of applications in industry, commerce, security, home automation and even smart cities. This study consists of the implementation of a voice control solution in low-cost
-processing devices, enabling its application in gym equipment for greater accessibility and use of such equipment.
+Voice automation technologies represent a potential solution to improve people's lives, enabling a wide range of applications in industry, commerce, security, home automation and even smart cities. This study consists of the implementation of a voice control solution in low-cost processing devices, enabling its application in gym equipment for greater accessibility and use of such equipment.
 
 *Key-words:* Voice control, Speech command recognition
 
