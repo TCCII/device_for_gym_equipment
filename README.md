@@ -24,4 +24,4 @@ Voice automation technologies represent a potential solution to improve people's
 
 [Apresentação](https://mackenzie365-my.sharepoint.com/:p:/r/personal/31922740_mackenzista_com_br/_layouts/15/Doc.aspx?sourcedoc=%7BF4D351FC-59DF-4723-A8E7-99A38AC761A3%7D&file=Apresenta%C3%A7%C3%A3o_TCC_II.pptx&wdOrigin=OFFICECOM-WEB.START.REC&ct=1669821833043&action=edit&mobileredirect=true&cid=a530ea34-1932-4d4e-99a7-49f93a106115)
 
-[Apresentação - versão PDF](file:///home/katia/Downloads/Apresenta%C3%A7%C3%A3o_TCC_II.pdf)
+[Apresentação - versão PDF](https://github.com/TCCII/device_for_gym_equipment/blob/main/Apresenta%C3%A7%C3%A3o_TCC_II.pdf)
